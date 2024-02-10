@@ -1,0 +1,8 @@
+[32mINFO    [0m Test_UserProfile:test_UserLogin.py:27 TestCase test_UserLogin_002 is started
+[32mINFO    [0m Test_UserProfile:test_UserLogin.py:28 Opening browser and navigating to OrangeHrm site
+[32mINFO    [0m Test_UserProfile:test_UserLogin.py:31 Enter Username
+[32mINFO    [0m Test_UserProfile:test_UserLogin.py:33 Enter Password
+[32mINFO    [0m Test_UserProfile:test_UserLogin.py:35 Click on Login Button
+[32mINFO    [0m Test_UserProfile:test_UserLogin.py:38 Click on Menu Button
+[32mINFO    [0m Test_UserProfile:test_UserLogin.py:40 Click on Logout Button
+[32mINFO    [0m Test_UserProfile:test_UserLogin.py:42 TestCase test_UserLogin_002 is passed

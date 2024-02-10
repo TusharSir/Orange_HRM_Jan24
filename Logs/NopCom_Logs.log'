@@ -1,0 +1,38 @@
+2024-02-10 07:54:31,439 : INFO : Test_UserProfile : test_verify_Url_001 : 8 : TestCase test_verify_Url_001 is started 
+2024-02-10 07:54:31,440 : INFO : Test_UserProfile : test_verify_Url_001 : 9 : Opening browser and navigating to OrangeHrm site 
+2024-02-10 07:54:31,440 : INFO : Test_UserProfile : test_verify_Url_001 : 11 : Checking the Page Title 
+2024-02-10 07:54:31,456 : INFO : Test_UserProfile : test_verify_Url_001 : 13 : Page Title is-->OrangeHRM 
+2024-02-10 07:54:31,456 : INFO : Test_UserProfile : test_verify_Url_001 : 14 : TestCase test_verify_Url_001 is Passed 
+2024-02-10 07:54:31,456 : INFO : Test_UserProfile : test_verify_Url_001 : 20 : TestCase test_verify_Url_001 is Completed 
+2024-02-10 07:54:58,567 : INFO : Test_UserProfile : test_verify_Url_001 : 8 : TestCase test_verify_Url_001 is started 
+2024-02-10 07:54:58,568 : INFO : Test_UserProfile : test_verify_Url_001 : 9 : Opening browser and navigating to OrangeHrm site 
+2024-02-10 07:54:58,568 : INFO : Test_UserProfile : test_verify_Url_001 : 11 : Checking the Page Title 
+2024-02-10 07:55:00,784 : INFO : Test_UserProfile : test_verify_Url_001 : 13 : Page Title is-->OrangeHRM 
+2024-02-10 07:55:00,785 : INFO : Test_UserProfile : test_verify_Url_001 : 14 : TestCase test_verify_Url_001 is Passed 
+2024-02-10 07:55:00,785 : INFO : Test_UserProfile : test_verify_Url_001 : 20 : TestCase test_verify_Url_001 is Completed 
+2024-02-10 07:55:30,185 : INFO : Test_UserProfile : test_verify_Url_001 : 8 : TestCase test_verify_Url_001 is started 
+2024-02-10 07:55:30,186 : INFO : Test_UserProfile : test_verify_Url_001 : 9 : Opening browser and navigating to OrangeHrm site 
+2024-02-10 07:55:30,187 : INFO : Test_UserProfile : test_verify_Url_001 : 11 : Checking the Page Title 
+2024-02-10 07:55:30,230 : INFO : Test_UserProfile : test_verify_Url_001 : 13 : Page Title is-->OrangeHRM 
+2024-02-10 07:55:30,230 : INFO : Test_UserProfile : test_verify_Url_001 : 14 : TestCase test_verify_Url_001 is Passed 
+2024-02-10 07:55:30,231 : INFO : Test_UserProfile : test_verify_Url_001 : 20 : TestCase test_verify_Url_001 is Completed 
+2024-02-10 07:56:43,153 : INFO : Test_UserProfile : test_verify_Url_001 : 8 : TestCase test_verify_Url_001 is started 
+2024-02-10 07:56:43,153 : INFO : Test_UserProfile : test_verify_Url_001 : 9 : Opening browser and navigating to OrangeHrm site 
+2024-02-10 07:56:43,153 : INFO : Test_UserProfile : test_verify_Url_001 : 11 : Checking the Page Title 
+2024-02-10 07:56:43,169 : INFO : Test_UserProfile : test_verify_Url_001 : 13 : Page Title is-->OrangeHRM 
+2024-02-10 07:56:43,170 : INFO : Test_UserProfile : test_verify_Url_001 : 14 : TestCase test_verify_Url_001 is Passed 
+2024-02-10 07:56:43,170 : INFO : Test_UserProfile : test_verify_Url_001 : 20 : TestCase test_verify_Url_001 is Completed 
+2024-02-10 08:07:22,725 : INFO : Test_UserProfile : test_UserLogin_002 : 27 : TestCase test_UserLogin_002 is started 
+2024-02-10 08:07:22,726 : INFO : Test_UserProfile : test_UserLogin_002 : 28 : Opening browser and navigating to OrangeHrm site 
+2024-02-10 08:07:22,727 : INFO : Test_UserProfile : test_UserLogin_002 : 31 : Enter Username 
+2024-02-10 08:07:23,429 : INFO : Test_UserProfile : test_verify_Url_001 : 12 : TestCase test_verify_Url_001 is started 
+2024-02-10 08:07:23,429 : INFO : Test_UserProfile : test_verify_Url_001 : 13 : Opening browser and navigating to OrangeHrm site 
+2024-02-10 08:07:23,430 : INFO : Test_UserProfile : test_verify_Url_001 : 15 : Checking the Page Title 
+2024-02-10 08:07:23,473 : INFO : Test_UserProfile : test_verify_Url_001 : 17 : Page Title is-->OrangeHRM 
+2024-02-10 08:07:23,473 : INFO : Test_UserProfile : test_verify_Url_001 : 18 : TestCase test_verify_Url_001 is Passed 
+2024-02-10 08:07:23,474 : INFO : Test_UserProfile : test_verify_Url_001 : 24 : TestCase test_verify_Url_001 is Completed 
+2024-02-10 08:07:24,246 : INFO : Test_UserProfile : test_UserLogin_002 : 33 : Enter Password 
+2024-02-10 08:07:24,456 : INFO : Test_UserProfile : test_UserLogin_002 : 35 : Click on Login Button 
+2024-02-10 08:07:26,546 : INFO : Test_UserProfile : test_UserLogin_002 : 38 : Click on Menu Button 
+2024-02-10 08:07:26,785 : INFO : Test_UserProfile : test_UserLogin_002 : 40 : Click on Logout Button 
+2024-02-10 08:07:28,604 : INFO : Test_UserProfile : test_UserLogin_002 : 42 : TestCase test_UserLogin_002 is passed 
