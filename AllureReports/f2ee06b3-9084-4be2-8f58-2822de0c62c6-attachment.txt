@@ -1,6 +1,0 @@
-[32mINFO    [0m Test_UserProfile:test_UserLogin.py:12 TestCase test_verify_Url_001 is started
-[32mINFO    [0m Test_UserProfile:test_UserLogin.py:13 Opening browser and navigating to OrangeHrm site
-[32mINFO    [0m Test_UserProfile:test_UserLogin.py:15 Checking the Page Title
-[32mINFO    [0m Test_UserProfile:test_UserLogin.py:17 Page Title is-->OrangeHRM
-[32mINFO    [0m Test_UserProfile:test_UserLogin.py:18 TestCase test_verify_Url_001 is Passed
-[32mINFO    [0m Test_UserProfile:test_UserLogin.py:24 TestCase test_verify_Url_001 is Completed
